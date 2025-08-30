@@ -4,4 +4,4 @@ Ride volume trends by date and time (peak hours analysis)
 Revenue insights with daily/weekly comparisons
 Customer and driver performance metrics
 Route analysis for most popular pickup & drop points
-Interactive filters for flexible data exploration# ola-dashboard
+Interactive filters for flexible data exploration# ola-dashboard.
